@@ -1,34 +1,3 @@
-// function SayName () {
-//     console.log("Mening ismim Aziz");
-// }
-// SayName()
-
-// Function 1-declarition 2-expresseion 3-arrow
-
-// function calculate(a, b){
-//     console.log(a + b);
-// }
-// calculate(3, 5)
-
-// function userName(name){
-//     console.log("Salom" + name);    
-// }
-// userName("Aziz");
-
-// const calculate = function(a, b){
-//     // console.log(a + b);
-//     return a + b;
-// }
-// console.log(calculate(2, 4));
-
-function userText(){
-    alert("SALOM")
-}
-
-function userText1(){
-    console.log("SALOM");
-}
-
 const name = prompt("Ism kiriting");
 const age = +prompt("Yosh kiriting");
 function userName(name, age){
